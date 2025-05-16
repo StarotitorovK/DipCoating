@@ -25,6 +25,8 @@ TG-канал: t.me/dip_coating
 ![image](https://github.com/user-attachments/assets/2ae69147-c2b9-491e-9feb-1a703913aac4)
 ![image](https://github.com/user-attachments/assets/c751cc17-668b-4c3a-b2e2-364ac4077a32)
 ![image](https://github.com/user-attachments/assets/4b2f5125-f162-4d50-9d66-f159b16db4e2)
+![image](https://github.com/user-attachments/assets/c4fa0cf4-6c15-4743-bdb1-a949c056bfc3)
+
 
 Используемый инструментарий:
 3D-принтер, паяльная станция, профилометр 
